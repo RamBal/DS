@@ -1,3 +1,6 @@
 This is my file.
 I am adding another line.
 A third line added.
+And a fourth line.
+
+Now I am testing Staging.
